@@ -59,6 +59,4 @@
   <i>Full-stack web engineer and React Native mobile developer dedicated to high performance, sub-second latency, and deterministic systems.</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kowshik3383&show_icons=true&theme=dark&bg_color=0f172a&title_color=22c55e&icon_color=22c55e&hide_border=true" alt="GitHub Stats" />
-</p>
+
